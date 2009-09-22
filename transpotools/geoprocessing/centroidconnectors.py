@@ -4,3 +4,5 @@
 # the user can also specify a max line distance
 # the output would be a new table such that a new field be added corresponding to the new values
 # in the new table to diffrenciate them from normal links
+
+import q
