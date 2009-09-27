@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary The models and References used in this plugin
 
 = Introduction =
 
