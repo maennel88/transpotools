@@ -1,5 +1,5 @@
+#summary Languages, Coding Style, and References
 #labels Featured
-# Languages, Coding Style, and References
 
 = Introduction =
 This section provides some background information needed to start on the project, please check the TransportationCorner page for Transportation related references
