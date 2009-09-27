@@ -1,8 +1,21 @@
-#summary One-sentence summary of this page.
+#labels Featured
+# Languages, Coding Style, and References
 
 = Introduction =
+This section provides some background information needed to start on the project, please check the TransportationCorner page for Transportation related references
 
-Add your content here.
+= Computer Languages and Technologies =
+The Familiarity with the following technologies is essential for any new developer that wants to work on TranspoTools
+
+  * Python and PyQT Excellent free ebook [http://www.qtrac.eu/pyqtbook.html]
+  * QGis [www.qgis.org] and the QGis API [http://doc.qgis.org/]
+  * PostGIS/PostgreSql [http://postgis.refractions.net/]
+  * pgRouting [http://pgrouting.postlbs.org/]
+
+= Coding Style =
+
+TranspoTools is a set of plugins for QGIS (www.qgis.org). We follow their recommended plugin coding style outlined in [http://wiki.qgis.org/qgiswiki/DevelopingPluginsWithPython]
+
 
 
 = Details =
