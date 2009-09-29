@@ -1,4 +1,4 @@
-#summary What is TranspoTools?
+#summary General Information for TranspoTools
 
 == Introduction ==
 
