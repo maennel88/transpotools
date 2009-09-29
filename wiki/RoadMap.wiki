@@ -21,7 +21,7 @@ The project will be separated in *four* major categories:
 || Applying an edge based A '*'  algorithm using python || Oct-15-2009 ||
 || Draft for a GIS representation for roads that suits analysis || Nov-5-2009 ||
 || _Transpo Tools_ || ||
-|| Apply the methods from NCHRP 365 manual using python. In this mile stone we will not apply all the chapters; rather, we'll concern ourselves with what is known as the basic four step model || Oct-31-2009 ||
+|| Apply the methods from NCHRP 365 manual using python. In this mile stone we will not apply all the chapters; rather, we'll concern ourselves with what is known as the basic four step model || ||
 || 1- Data Requirements module || Oct-10-2009 ||
 || 2- Trip Generation (attraction, production, and Balance   || Oct-15-2009 ||
 || 3- Trip Distribution Module (based on A* implementation|| Oct-25-2009 ||
