@@ -37,7 +37,7 @@ TranspoTools is open source software for transportation practitioners and is gea
  * Octave
 
 == How can I get involved? ==
-TranspoTools is an exciting project with a broad array of technologies being used.  If you would like to help how here's how;
+TranspoTools is an exciting project with a broad array of technologies being used.  If you would like to help out here's how;
 
  # Join this google group and participate
  # Visit us now at #transpotools on irc.freenode.net
