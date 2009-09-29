@@ -42,23 +42,3 @@ The project will be separated in *four* major categories:
 || Draft a plan to design a full implementation of PECAS || Nov-01-2009 ||
 
 The first milestone is set to measure our progress in terms of group coordination, communication, and accomplishing tasks. In Milestone 2 We will focus on ITE Site Development procedures, trip generation parameters, finishing the TDM implementation and beginner Transit Analysis (Mid November to End of December 2009). Milestone three will focus on building microsimulation tool for traffic intersections and corridors, as well finishing some of the transit models. Milestone 4 will incorporate environmental analysis, transit scheduling and routing, Benefit cost analysis, and enhancing the visualizer and microsimulator. Milestone B runs alongside milestones 2-4; however is only focused on implementing PECAS. 
-
-
-
-
-
-
-
-
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
