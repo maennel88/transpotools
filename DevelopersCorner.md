@@ -1,0 +1,24 @@
+# Introduction #
+This section provides some background information needed to start on the project, please check the TransportationCorner page for Transportation related references
+
+# Computer Languages and Technologies #
+
+## Minimum Requirements ##
+The Familiarity with the following technologies is essential for any new developer that wants to work on TranspoTools. These tools are not very complicated, it is suggested that you follow the tutorials for each technology.
+
+  * Python and PyQT Excellent free ebook http://www.qtrac.eu/pyqtbook.html
+  * QGis http://www.qgis.org and the QGis API http://doc.qgis.org/
+  * PostGIS and PostgreSql http://postgis.refractions.net/
+  * pgRouting http://pgrouting.postlbs.org/
+
+## Optional Requirements ##
+
+  * C / C++
+  * R
+  * JS/Jquery
+  * Google Maps API
+  * System Administrators
+
+# Coding Style #
+
+TranspoTools is a set of plugins for QGIS (www.qgis.org). We follow their recommended plugin coding style outlined in http://wiki.qgis.org/qgiswiki/DevelopingPluginsWithPython

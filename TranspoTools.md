@@ -1,0 +1,42 @@
+## Introduction ##
+
+TranspoTools is open source software for transportation practitioners and is geared toward providing both a robust and cost efficient alternative to commercially available software.  TranspoTools will be providing plugins for the following projects:
+
+  * Qgis http://www.qgis.org/
+  * PostGIS http://postgis.refractions.net/
+  * pgrouting http://pgrouting.postlbs.org/
+
+
+## Areas Of Focus ##
+
+  * Freight travel demand (NCHRP Manual)
+  * Traffic impact studies (ITE Manual)
+  * Micro modeling of traffic signals
+  * Multi logit modeling for vehicle mode choice
+
+
+## Manuals corresponding to TranspoTools software ##
+
+  * Quick Response Manual (NCHRP Report 365)
+  * Transit Analysis Manual (TCRP Report 100)
+  * ITE Trip Generation Manual (2004 edition + rates)
+  * EPA's Mobile 6 greenhouse gas emissions model
+  * Rural and Suburban Transit Models (various NCHRP reports)
+
+
+## What is TranspoTools built on? ##
+
+  * Python
+  * QGis API
+  * PyQT
+  * PostgreSQL
+  * R
+  * C/C++
+  * Octave
+
+## How can I get involved? ##
+TranspoTools is an exciting project with a broad array of technologies being used.  If you would like to help out here's how;
+
+  1. Join this google group and participate
+  1. Visit us now at #transpotools on irc.freenode.net
+  1. ~~Profit!~~ Have fun, learn and help open source software!

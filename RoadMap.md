@@ -1,0 +1,41 @@
+# Project Road Map #
+
+It's been pointed out by pandres that a roadmap needs to be developed before we start developing. Therefore, I'm proposing the following framework to get us through this endeavor.
+
+The project will be separated in **four** major categories:
+  1. **_Backend:_** this consists of applying algorithms (A'**', Shooting'**', TSP, etc...) and new geometric data structures that suit GIS for Transportation.
+  1. **_Transportation related plugins:_** These plugins consist of different modules that tackle different traffic and transportation engineering problems
+  1. **_Non Transpotools:_** these tools provide analysis tools such as charts, equation editors, and visualizers to aid the transportation practitioner in their analysis
+  1. **_Research and Development:_** The research and development consists of applying state of the art methodologies to state of the practice. The intent is to provide both cutting edge model and reliable ones.
+
+
+## Milestones ##
+
+| _Task_ |  _Due Date_ |
+|:-------|:------------|
+| **Milestone 1** |             |
+| _Backend_ |             |
+| Applying an edge based A '**'  algorithm using python**| Oct-15-2009 |
+| Draft for a GIS representation for roads that suits analysis | Nov-5-2009  |
+| _Transpo Tools_ |             |
+| Apply the methods from NCHRP 365 manual using python. In this mile stone we will not apply all the chapters; rather, we'll concern ourselves with what is known as the basic four step model |             |
+| 1- Data Requirements module | Oct-10-2009 |
+| 2- Trip Generation (attraction, production, and Balance   | Oct-15-2009 |
+| 3- Trip Distribution Module (based on A**implementation**| Oct-25-2009 |
+| 4- Mode Choice Module | Nov-05-2009 |
+| 5- Trip Assignment Module | Nov-20-2009 |
+| unit test, calibration and verification | Nov-25-2009 |
+| Design QT UI | Nov-25-2009 |
+| Incorporate and test Validation and Calibration Techniques | Dec-05-2009 |
+| test the QGis Plugin | Dec-10-2009 |
+| Release | Dec-11-2009 |
+| _Non Transpo Tools_ |             |
+| Equation Editor: Design and test an equation editor WYSIWYG for QGis based on Numpy and PyQT |             |
+| UI Design | Oct-05-2009 |
+| Coding the plugin| Oct-10-2009 |
+| Testing the plugin in QGis | Oct-15-2009 |
+| Release | Oct-16-2009 |
+| _Research and Development_ |
+| Draft a plan to design a full implementation of PECAS | Nov-01-2009 |
+
+The first milestone is set to measure our progress in terms of group coordination, communication, and accomplishing tasks. In Milestone 2 We will focus on ITE Site Development procedures, trip generation parameters, finishing the TDM implementation and beginner Transit Analysis (Mid November to End of December 2009). Milestone three will focus on building microsimulation tool for traffic intersections and corridors, as well finishing some of the transit models. Milestone 4 will incorporate environmental analysis, transit scheduling and routing, Benefit cost analysis, and enhancing the visualizer and microsimulator. Milestone B runs alongside milestones 2-4; however is only focused on implementing PECAS.
